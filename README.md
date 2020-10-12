@@ -4,5 +4,5 @@ Meu nome é Nathan, tenho 19 anos, comecei realmente a estudar programação no 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_nathan0liveira)](https://twitter.com/_nathan0liveira) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-gabriel-o/)](https://www.linkedin.com/in/nathan-gabriel-o/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOliveiraJF&layout=compact&hide=html)
+
 
