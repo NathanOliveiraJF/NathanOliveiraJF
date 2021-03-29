@@ -9,6 +9,7 @@ i am continuously studying 💻.
 I like challenges and generate solutions.
 
 
+
 [LinkedIn 💼](https://www.linkedin.com/in/nathan-gabriel-o/)
 
 [Twitter 🐦](https://twitter.com/_nathan0liveira)
@@ -16,7 +17,7 @@ I like challenges and generate solutions.
 [Email 📬](mailto:nathanoliveira003jf@gmail.com)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanoliveirajf&layout=compact&hide=html)
 
 
 
