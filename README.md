@@ -14,7 +14,7 @@
 </p>
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOliveiraJF&hide=css,java,html&theme=tokyonight">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOliveiraJF&hide=css,java,html,typescript&theme=tokyonight">
 
 
 ## Tecnologias🖥️
