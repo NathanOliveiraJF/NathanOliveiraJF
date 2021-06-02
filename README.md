@@ -1,19 +1,17 @@
-### Hi there 👋
-
-![undraw_developer_activity_bv83](https://user-images.githubusercontent.com/58376382/113893338-4ba9a200-979d-11eb-9118-c24ceb49e7fb.png)
-</br>
-
-* Tenho 19 anos 
-* Sou estudante de análise e desenvolvimento sistemas
-* apaixonado por código e estou continuamente estudando :)
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOliveiraJF&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=NathanOliveiraJF&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
 
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/nathan-gabriel-o/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+    <a href="https://www.linkedin.com/in/nathan-gabriel-o/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOliveiraJF&hide=css,java,html,typescript&theme=tokyonight">
 
 
 ## Tecnologias🖥️
@@ -28,6 +26,7 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    
 </p>
 
 
