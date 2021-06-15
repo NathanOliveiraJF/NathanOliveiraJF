@@ -1,5 +1,5 @@
 <center>
-<table style="overflow-y: hidden">
+<table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanOliveiraJF&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=NathanOliveiraJF&theme=buefy"/></td>
@@ -8,10 +8,10 @@
 </center>
 
 
-<p align='center'>
+<!-- <p align='center'>
     <a href="https://www.linkedin.com/in/nathan-gabriel-o/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-
+ -->
 
 
 ## Tecnologias🖥️
