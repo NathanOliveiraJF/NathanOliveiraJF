@@ -16,7 +16,7 @@ My name is Nathan Oliveira. I currently live in Juiz de Fora, Brazil, with exper
 ## Detailed information
 
 * **Name**: Nathan Oliveira
-* **Age**: 23
+* **Age**: 24
 * **Living in**: Juiz de fora - MG, Brazil
 * **Stack**: PHP - Laravel - SQL - Platform 
 * **Learning**: Python and Generative IAs
